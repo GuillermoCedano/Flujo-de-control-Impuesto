@@ -1,0 +1,17 @@
+Nombre: Guillermo Cedano Polanco
+Matrícula: 25-SISN-2-019
+Asignatura: Algoritmos Computacionales
+
+¿Qué hace el programa? 
+-Este programa calcula el impuesto sobre la renta (ISR) de un empleado según la escala de la DGII.
+
+¿Qué datos recibe de entrada?
+-Sueldo mensual
+
+¿Qué datos procesa?
+-Sueldo anual
+-ISR mensual
+
+¿Qué datos imprime?
+-Sueldo anual
+-ISR
